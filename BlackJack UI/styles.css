@@ -1,0 +1,12 @@
+QPushButton#chip10Button:hover{
+    border: 5px solid black;
+}
+QPushButton#chip50Button:hover{
+    border: 5px solid black;
+}
+QPushButton#chip100Button:hover{
+    border: 5px solid black;
+}
+QPushButton#betButton:hover{
+    border: 5px solid black;
+}
