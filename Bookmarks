@@ -1,0 +1,586 @@
+{
+   "checksum": "378beea0cc8f81dc149857e1bda87fa0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13377634610413977",
+            "date_last_used": "13378576156710342",
+            "guid": "56bea83a-f75f-4850-b6db-b45bfd1377f4",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(74) Why You Shouldn't Nest Your Code - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=CFRhGnuXG-4"
+         }, {
+            "date_added": "13377637411440349",
+            "date_last_used": "0",
+            "guid": "87142c72-7da9-40b6-9878-69de58090cc1",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(74) 100+ JavaScript Concepts you Need to Know - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=lkIFF4maKMU"
+         }, {
+            "date_added": "13377653444864984",
+            "date_last_used": "13378637190564738",
+            "guid": "79f6c136-42f4-4aeb-810f-39f5b2a6bf76",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(74) 20 Programming Projects That Will Make You A God At Coding - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=jTJvyKZDFsY"
+         }, {
+            "date_added": "13377982162615712",
+            "date_last_used": "0",
+            "guid": "f8640405-5f35-4298-8bb8-5a75b003bf70",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(85) JavaScript Tutorial Full Course - Beginner to Pro (2024) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=EerdGm-ehJQ"
+         }, {
+            "date_added": "13378145009853826",
+            "date_last_used": "0",
+            "guid": "1ba010bd-6a74-4b37-921e-55cd3e6e18a4",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(88) 25 nooby Python habits you need to ditch - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=qUeud6DvOWI"
+         }, {
+            "date_added": "13378163311357433",
+            "date_last_used": "13378637179301767",
+            "guid": "68759ee5-6303-421f-92c0-1af8dc108c1d",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(89) 5 IMPRESSIVE Python Resume Projects (You Can Finish in A Weekend) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=O3zh_mViWbc"
+         }, {
+            "date_added": "13378163379282365",
+            "date_last_used": "0",
+            "guid": "90fd576c-ea1d-45c9-bafd-2a0614f1bc2e",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(89) The fastest website ever? - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=fWfIf7Vfjec&t=347s"
+         }, {
+            "date_added": "13378250053052510",
+            "date_last_used": "0",
+            "guid": "d9a49d70-fd43-4bc2-b9c8-06cf51e8ca97",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(90) 5 Bad Ideas In Python - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=8KrRdk89Orw"
+         }, {
+            "date_added": "13378251253664213",
+            "date_last_used": "13378576145186509",
+            "guid": "af1a8231-dd37-43f2-97d7-fc243c796964",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(90) The ultimate introduction to modern GUIs in Python [ with tkinter ] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=mop6g-c5HEY"
+         }, {
+            "date_added": "13378339302707984",
+            "date_last_used": "13378667333800183",
+            "guid": "0f27a71c-0734-4680-b881-5ef112946710",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(92) USE COMPOSITION trust me. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=RAjgkqJ-8xQ"
+         }, {
+            "date_added": "13379093459157848",
+            "date_last_used": "0",
+            "guid": "561cd350-63b5-4f5a-b73b-a696525555d9",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Are these games actually a viable way to learn to code? : r/learnprogramming",
+            "type": "url",
+            "url": "https://www.reddit.com/r/learnprogramming/comments/1hhsldw/are_these_games_actually_a_viable_way_to_learn_to/"
+         }, {
+            "date_added": "13379194722948789",
+            "date_last_used": "13379332865093454",
+            "guid": "3031a091-2923-46b5-94f8-c9f9e8a1c73b",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(113) Cat FM Radio Rebooted | Christmas 2024 Broadcast - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=zwBfu6u6YfU"
+         }, {
+            "date_added": "13379295078800689",
+            "date_last_used": "0",
+            "guid": "eb6e76ba-dc91-4e0a-b785-9184d4c86a1c",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home | nand2tetris",
+            "type": "url",
+            "url": "https://www.nand2tetris.org/"
+         }, {
+            "date_added": "13379295127531669",
+            "date_last_used": "0",
+            "guid": "5b9ae117-33ac-40d7-8b62-8d1450ca7110",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New to programming. : r/learnprogramming",
+            "type": "url",
+            "url": "https://www.reddit.com/r/learnprogramming/comments/1hjdyyo/new_to_programming/"
+         }, {
+            "date_added": "13379295530031930",
+            "date_last_used": "0",
+            "guid": "9040c581-597a-4b50-a45e-f10b9e3eaf4a",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(117) ‍ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=hKj_4hedwD8"
+         }, {
+            "date_added": "13379334541832209",
+            "date_last_used": "0",
+            "guid": "bf8180a2-95a0-4d32-939a-2b85c6b511b6",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Flexbox playground",
+            "type": "url",
+            "url": "https://codepen.io/enxaneta/full/adLPwv/"
+         }, {
+            "date_added": "13379442452183909",
+            "date_last_used": "13380728549245657",
+            "guid": "aac8d610-2acd-45e5-82d0-645cc6c47b44",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home",
+            "type": "url",
+            "url": "https://lospec.com/"
+         }, {
+            "date_added": "13379446447669172",
+            "date_last_used": "0",
+            "guid": "b5a7601c-69f9-4975-ba00-e3f42f6dc365",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ODIN landing page project discussion",
+            "type": "url",
+            "url": "https://perpetual.education/stories/odin-landing-page-project-discussion/"
+         }, {
+            "date_added": "13379436919671898",
+            "date_last_used": "13380193971529589",
+            "guid": "cf80ba5c-7369-45a1-9890-98fc5d895661",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(121) Collin Arford - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/results?search_query=Collin+Arford"
+         }, {
+            "date_added": "13379446453106101",
+            "date_last_used": "0",
+            "guid": "ca500153-2220-4ac5-af6f-a175dd9bb2a3",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "I made a detailed walk-through of The Odin Project's Landing page project : r/webdev",
+            "type": "url",
+            "url": "https://www.reddit.com/r/webdev/comments/q9f82u/i_made_a_detailed_walkthrough_of_the_odin/"
+         }, {
+            "date_added": "13379446459590147",
+            "date_last_used": "0",
+            "guid": "5ce9543d-533c-4740-83ae-b3797cc44339",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) Frutiger Aero Music to study to | 2000's Tech Nostalgia Playlist - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=iFZoDfcRFUQ"
+         }, {
+            "date_added": "13379446462815125",
+            "date_last_used": "0",
+            "guid": "9850c6e3-4d32-4a70-8e1b-63249d22e35a",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) ‍ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ps64kG-XqQ4"
+         }, {
+            "date_added": "13379446491231147",
+            "date_last_used": "0",
+            "guid": "7632d79d-2a7e-49e1-bc46-f788764d439d",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) michael9r9r - A Twisted Heart - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=oA2lY8VLn8M"
+         }, {
+            "date_added": "13379459927693795",
+            "date_last_used": "0",
+            "guid": "e84aa969-39af-45b2-ae4f-4f3757bbf870",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) c29uZ3MgZm9yIGdsb29teXMgZGF5cyA6Mw== - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=uxEsOvNd52s"
+         }, {
+            "date_added": "13379459929944677",
+            "date_last_used": "0",
+            "guid": "773b808e-afd0-4848-aef9-fbc312913077",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) How to think like A GENIUS Programmer - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=kQUwImj32PA"
+         }, {
+            "date_added": "13379459932102695",
+            "date_last_used": "0",
+            "guid": "ec54dba6-9d2d-445f-ae18-48593d373979",
+            "id": "47",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Reddit - Dive into anything",
+            "type": "url",
+            "url": "https://www.reddit.com/r/ProgrammerHumor/comments/1hkudqq/shouldabutton/#lightbox"
+         }, {
+            "date_added": "13379460345021085",
+            "date_last_used": "0",
+            "guid": "420bed39-9a54-4662-b6d3-15faef99b372",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(122) How Do Computers Remember? - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=I0-izyq6q5s"
+         }, {
+            "date_added": "13379546625241652",
+            "date_last_used": "13380193985472300",
+            "guid": "77c7e9e8-e187-4cf4-ba61-1c79128a2aef",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(123) cyber light music mix ☆ - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=kXTgpQM62_0"
+         }, {
+            "date_added": "13379547105119779",
+            "date_last_used": "13380193999196562",
+            "guid": "33b2c006-5b91-4c22-9ed2-690347ee4a37",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(123) Zen TV 🌦️ (Frutiger Aero / Vaporwave Mix) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=4ozXwgGFr7k"
+         }, {
+            "date_added": "13379618860417402",
+            "date_last_used": "0",
+            "guid": "c038bd19-4465-44ab-aeef-2470ef7e702f",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(124) Python App Development: Build Modern GUIs in 7 Hours (Beginners Course) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=f_9NBdSAo-g"
+         }, {
+            "date_added": "13379724268628255",
+            "date_last_used": "0",
+            "guid": "68317aad-823f-4bf6-b182-2a875ac3fd93",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(2) Undersaken - reflection in the pond - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=TO88OuLb0fo"
+         }, {
+            "date_added": "13379724384182313",
+            "date_last_used": "0",
+            "guid": "4422251c-7697-4b22-a813-223a4f2e72e6",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(2) George Garside - The Jester (Full 1985 New Age/Electronic Album) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ktTfV6VEATk"
+         }, {
+            "date_added": "13379940995751433",
+            "date_last_used": "0",
+            "guid": "7b12729e-b7e0-4570-86ab-0b2e3e316326",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "melancholy - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Z-LL9V79jtY"
+         }, {
+            "date_added": "13380056431530508",
+            "date_last_used": "0",
+            "guid": "90493c4d-cfb3-4dc7-9109-393cb5c37c74",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "// Summer Bliss Emulator (Frutiger Aero, Y2K, Vaporwave Mix) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=Xu6RwsWqg6M"
+         }, {
+            "date_added": "13380056434216212",
+            "date_last_used": "0",
+            "guid": "bfb5530d-c475-4066-a480-6f97dba9b5b2",
+            "id": "62",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "February, 22, 2001 - A liminal playlist - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=hR5Km4qktok"
+         }, {
+            "date_added": "13380056437074023",
+            "date_last_used": "13380816892383316",
+            "guid": "d41ef178-dd84-4c53-affd-6001c9a90295",
+            "id": "63",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Flolain - Lefu's forest - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=p5GNMElvD88"
+         }, {
+            "date_added": "13380069316468889",
+            "date_last_used": "0",
+            "guid": "b3fe0444-6bac-4631-ab7c-ec16af598f42",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Açlık Çoğunlukta - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=LkiGrFFujtA"
+         }, {
+            "date_added": "13380137840454126",
+            "date_last_used": "0",
+            "guid": "4184cc88-bfb4-4a4d-90ce-0bae2e42ead6",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Advent of Code 2024",
+            "type": "url",
+            "url": "https://adventofcode.com/"
+         }, {
+            "date_added": "13380137981739657",
+            "date_last_used": "13380728518646819",
+            "guid": "0f635d69-7324-4769-b4a5-053da8ee9dd6",
+            "id": "68",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Coding Games and Programming Challenges to Code Better",
+            "type": "url",
+            "url": "https://www.codingame.com/ide/puzzle/onboarding"
+         }, {
+            "date_added": "13380138004642708",
+            "date_last_used": "13380728537608867",
+            "guid": "5fed2b70-6097-4645-9fe3-d06161c6e968",
+            "id": "69",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "What to Code",
+            "type": "url",
+            "url": "https://what-to-code.com/?order=OLDEST"
+         }, {
+            "date_added": "13380159593979455",
+            "date_last_used": "0",
+            "guid": "e04e6b47-fb77-47e0-879e-ec99a7985d00",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) play this at 1.25x speed, you'll thank me later [MIDIJam] - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=ZPYyOtFRS4M"
+         }, {
+            "date_added": "13380193948704050",
+            "date_last_used": "0",
+            "guid": "c59e4c9b-1518-4198-8265-da8db62a7cda",
+            "id": "72",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Coding Ray Tracing in C - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=2BLRLuczykM"
+         }, {
+            "date_added": "13380328400623737",
+            "date_last_used": "0",
+            "guid": "c1c5202b-ef40-499f-8aae-f907e6046808",
+            "id": "74",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) The Computer That Runs The World - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=DLg5tyxmXqQ"
+         }, {
+            "date_added": "13380328404936568",
+            "date_last_used": "0",
+            "guid": "fc564f7a-bfda-41ac-b17f-381767798079",
+            "id": "75",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(1) Use the fact nobody knows who you are to your advantage - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=JDT0WqnGRlY"
+         }, {
+            "date_added": "13380674361130193",
+            "date_last_used": "0",
+            "guid": "4c6d756b-fffb-41af-924d-16e468531dec",
+            "id": "77",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Create Your Own Lattice Boltzmann Simulation (With Python) | by Philip Mocz | The Startup | Medium",
+            "type": "url",
+            "url": "https://medium.com/swlh/create-your-own-lattice-boltzmann-simulation-with-python-8759e8b53b1c"
+         }, {
+            "date_added": "13380746262576881",
+            "date_last_used": "0",
+            "guid": "0886b51e-596e-4b91-b6d1-a77f63361a0b",
+            "id": "79",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(13) Stavroz - A Great Day to Fly a Kite - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3C_j4P0i2FI"
+         }, {
+            "date_added": "13380758684771798",
+            "date_last_used": "0",
+            "guid": "ebe62cf8-1224-4810-960d-ead308b4adad",
+            "id": "81",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(13) It's Not Your Fault You're Behind In Life – A Software Engineer's Struggle - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=clF2waKBQvk"
+         }, {
+            "date_added": "13380834848500449",
+            "date_last_used": "0",
+            "guid": "7b715053-a409-4b91-b05b-98ab74351786",
+            "id": "83",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(15) PyQt Animation - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=75PG0sloTc8"
+         }, {
+            "date_added": "13381004491252859",
+            "date_last_used": "0",
+            "guid": "ccc47c9b-dffd-448c-b625-916d03b68736",
+            "id": "85",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(20) CS grad 2 years unemployed calls in to see if its over | Call In 4 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=2AJH_EZhR8g"
+         }, {
+            "date_added": "13381341062779065",
+            "date_last_used": "0",
+            "guid": "69e858d6-8a72-4a4f-af3b-f2c10c5cac3c",
+            "id": "88",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "pyqt5/examples/multimediawidgets at master · baoboa/pyqt5",
+            "type": "url",
+            "url": "https://github.com/baoboa/pyqt5/tree/master/examples/multimediawidgets"
+         } ],
+         "date_added": "13377632047033115",
+         "date_last_used": "0",
+         "date_modified": "13381341062779065",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13377632047033119",
+         "date_last_used": "0",
+         "date_modified": "13377634610413977",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13377632047033121",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
